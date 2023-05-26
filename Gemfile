@@ -5,6 +5,7 @@ ruby "3.1.2"
 gem "rails", "~> 7.0.5"
 
 gem "bootsnap", require: false
+gem "cloudinary"
 gem "jsbundling-rails"
 gem "pg", "~> 1.1"
 gem "puma", "~> 5.0"
